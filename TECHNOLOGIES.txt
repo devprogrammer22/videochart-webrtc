@@ -1,0 +1,6 @@
+audio, chat, website, video, vue, communication, websocket, webrtc, peer, webapp, group, p2p-chat.
+
+Briefing is a PWA i.e. it is a web app, that can be installed from inside the browser on some platforms.
+
+Free, secure, modern and easy video chat. Just share the link to your chat room and get started from any device or browser. No account required. No personal data collected.
+Video connections are directly established between you and the other participants in an encrypted and secure way.
